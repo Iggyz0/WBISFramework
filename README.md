@@ -1,6 +1,8 @@
 # WBISFramework
 
-Collab university project (MVC framework) written in php
+University project (MVC framework) written in php.
+
+Collaboraion with [Boža](https://github.com/BozidarM).
 
 # GUI
 
